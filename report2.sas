@@ -1,6 +1,6 @@
 
 
-options ls=132 ps=52 nodate nonumber nocenter; 
+options ls=132 ps=52 nodate nonumber nocenter FORMCHAR='|_---|+|---+=|-/\<>*'; 
 title " ";
 
 data _null_; 
